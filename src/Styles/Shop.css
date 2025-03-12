@@ -9,3 +9,8 @@
     font-weight: 800;
     margin-top: 5%;
 }
+.shopItemsContainer {
+    width: 80%;
+    display: flex;
+    margin-top: 5%;
+}

@@ -2,25 +2,25 @@
     {
        "id": 1,
        "name": "Burger",
-       "price": 999,
+       "price": 9,
        "img": "public/assets/burger.jpg"
     },
     {
        "id": 2,
        "name": "Pizza",
-       "price": 1299,
+       "price": 12,
        "img": "public/assets/pizza.jpg"
     },
     {
        "id": 3,
        "name": "Tortilla",
-       "price": 1599,
+       "price": 15,
        "img": "public/assets/tortilla.jpg"
     },
     {
        "id": 4,
        "name": "Burrito",
-       "price": 799,
+       "price": 7,
        "img": "public/assets/burrito.jpg"
     }
  ]
